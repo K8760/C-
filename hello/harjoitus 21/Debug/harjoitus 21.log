@@ -1,0 +1,4 @@
+﻿  harjoitus 21.cpp
+s:\ohjelmointi\hello\harjoitus 21\harjoitus 21.cpp(34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  harjoitus 21.vcxproj -> S:\ohjelmointi\hello\Debug\harjoitus 21.exe
+  harjoitus 21.vcxproj -> S:\ohjelmointi\hello\Debug\harjoitus 21.pdb (Full PDB)

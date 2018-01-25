@@ -1,0 +1,4 @@
+﻿  harjoitus 18.cpp
+s:\ohjelmisto\hello\harjoitus 18\harjoitus 18.cpp(29): warning C4101: 'tmp1': unreferenced local variable
+  harjoitus 18.vcxproj -> S:\ohjelmisto\hello\Debug\harjoitus 18.exe
+  harjoitus 18.vcxproj -> S:\ohjelmisto\hello\Debug\harjoitus 18.pdb (Full PDB)
